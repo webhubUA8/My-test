@@ -1,0 +1,17 @@
+body {
+	background: lightgreen;
+}
+
+.div-1 {
+	margin: 20px;
+	width: 200px;
+	height: 180px;
+	background: pink;
+}
+
+.div-2 {
+	margin: 20px;
+	width: 200px;
+	height: 180px;
+	background: orange;
+}
